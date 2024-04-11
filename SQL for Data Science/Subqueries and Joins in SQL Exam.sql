@@ -74,7 +74,7 @@ ON A.ArtistId = Albums.ArtistId);
 +-----------------------------------------+--------+---------------------------------------+---------+
 | For Those About To Rock (We Salute You) | AC/DC  | For Those About To Rock We Salute You |       1 |
 | Put The Finger On You                   | AC/DC  | For Those About To Rock We Salute You |       6 |
-| Let's Get It Up                         | AC/DC  | For Those About To Rock We Salute You |       7 |
+| Lets Get It Up                         | AC/DC  | For Those About To Rock We Salute You |       7 |
 | Inject The Venom                        | AC/DC  | For Those About To Rock We Salute You |       8 |
 | Snowballed                              | AC/DC  | For Those About To Rock We Salute You |       9 |
 | Evil Walks                              | AC/DC  | For Those About To Rock We Salute You |      10 |
